@@ -14,6 +14,7 @@
 		96E048B41BC11B480017DDC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96E048B21BC11B480017DDC9 /* LaunchScreen.storyboard */; };
 		96E048BF1BC11B490017DDC9 /* HipsterDogNamesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E048BE1BC11B490017DDC9 /* HipsterDogNamesTests.swift */; };
 		96E048CA1BC11B490017DDC9 /* HipsterDogNamesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E048C91BC11B490017DDC9 /* HipsterDogNamesUITests.swift */; };
+		96E048D81BC11BDC0017DDC9 /* Because I am Happy Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96E048D71BC11BDC0017DDC9 /* Because I am Happy Regular.ttf */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		96E048C51BC11B490017DDC9 /* HipsterDogNamesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HipsterDogNamesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96E048C91BC11B490017DDC9 /* HipsterDogNamesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HipsterDogNamesUITests.swift; sourceTree = "<group>"; };
 		96E048CB1BC11B490017DDC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96E048D71BC11BDC0017DDC9 /* Because I am Happy Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Because I am Happy Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				96E048A91BC11B480017DDC9 /* AppDelegate.swift */,
 				96E048AB1BC11B480017DDC9 /* ViewController.swift */,
 				96E048AD1BC11B480017DDC9 /* Main.storyboard */,
+				96E048D71BC11BDC0017DDC9 /* Because I am Happy Regular.ttf */,
 				96E048B01BC11B480017DDC9 /* Assets.xcassets */,
 				96E048B21BC11B480017DDC9 /* LaunchScreen.storyboard */,
 				96E048B51BC11B480017DDC9 /* Info.plist */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96E048B41BC11B480017DDC9 /* LaunchScreen.storyboard in Resources */,
+				96E048D81BC11BDC0017DDC9 /* Because I am Happy Regular.ttf in Resources */,
 				96E048B11BC11B480017DDC9 /* Assets.xcassets in Resources */,
 				96E048AF1BC11B480017DDC9 /* Main.storyboard in Resources */,
 			);

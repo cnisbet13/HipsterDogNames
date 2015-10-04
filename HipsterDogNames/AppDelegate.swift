@@ -16,6 +16,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+       
+        let navigationBarAppearance = UINavigationBar.appearance()
+        navigationBarAppearance.titleTextAttributes = [NSFontAttributeName: UIFont(name: "Because_I_am_Happy", size: 26)!, NSForegroundColorAttributeName:UIColor.whiteColor()]
+        
+        
         return true
     }
 
