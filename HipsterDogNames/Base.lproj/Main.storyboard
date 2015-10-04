@@ -29,6 +29,9 @@
                                         <state key="normal" title="Gimme Some Hipster Dog Names!">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="nameGenerator:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NcC-dr-rle"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" red="0.88627450980392153" green="0.63921568627450975" blue="0.47058823529411764" alpha="1" colorSpace="calibratedRGB"/>
@@ -46,7 +49,7 @@
                                 <color key="backgroundColor" red="0.43529411759999997" green="0.63137254899999995" blue="0.53333333329999999" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1Pc-5y-SyQ">
-                                <rect key="frame" x="0.0" y="468" width="320" height="100"/>
+                                <rect key="frame" x="0.0" y="468" width="320" height="101"/>
                                 <color key="backgroundColor" red="0.82745098039215681" green="0.396078431372549" blue="0.34509803921568627" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="59l-wP-vAP">
